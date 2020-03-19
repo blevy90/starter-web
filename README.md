@@ -7,6 +7,10 @@ Another paragraph.
 
 Sample website with plenty of files for demos
 
+## How to Contribute
+
+Please fork this repository then issue Pull Requests for review.
+
 ## Deployment
 
 This is a sample instruction for deployment.
