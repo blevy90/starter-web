@@ -14,3 +14,7 @@ This is a sample instruction for deployment.
 More datas.
 
 ## Modified Header
+
+### Copyright
+
+2020 Git.Training.
