@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brad Levy -- blevy90@me.com -- @bssl
 
 # THANKS
 
